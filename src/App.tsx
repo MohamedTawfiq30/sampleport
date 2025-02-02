@@ -50,7 +50,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-16 text-center">
           <div className="mb-8">
             <img
-              src="https://i.postimg.cc/SjJrBgR7/1713758404882.jpg"
+              src=".//1713758404882.jpg"
               alt="Mohamed Tawfiq J"
               className="w-32 h-32 rounded-full mx-auto object-cover border-4 border-purple-500"
             />
